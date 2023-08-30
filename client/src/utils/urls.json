@@ -1,0 +1,30 @@
+{
+  "home": {
+    "name": "Home",
+    "path": "/"
+  },
+  "dashboard": {
+    "name": "Dashboard",
+    "path": "/dashboard"
+  },
+  "settings": {
+    "name": "Settings",
+    "path": "/settings"
+  },
+  "user": {
+    "name": "User",
+    "path": "/:username"
+  },
+  "signup": {
+    "name": "Signup",
+    "path": "/signup"
+  },
+  "login": {
+    "name": "Login",
+    "path": "/login"
+  },
+  "forgotPassword": {
+    "name": "Forgot Password",
+    "path": "/forgot-password"
+  }
+}
